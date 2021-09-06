@@ -1,18 +1,17 @@
 trans for 3x - 169
     {
-        go for 1256:?benchHost*2456
-        set VirusMark^678*245-treatX^treatY
+      go for 1256:?benchHost*2456
+      set VirusMark^678*245-treatX^treatY
     }
 quarry Xmark for %567* going for
     {
+      {
         {
-            {
-                send ValueThreat- bendColumnX*2456/Vcxzr(Xgf)
-            }
-          apart into bendColumnY*2459/Vcxzq(Ygf)
-          infiltrate Toxigenvalue*7564.87*%HostAdressVal
-          superior ?SecDelay($intoSecA^$intoSecG)*HostValX
-        
+          send ValueThreat- bendColumnX*2456/Vcxzr(Xgf)
+        }
+      apart into bendColumnY*2459/Vcxzq(Ygf)
+      infiltrate Toxigenvalue*7564.87*%HostAdressVal
+      superior ?SecDelay($intoSecA^$intoSecG)*HostValX    
     }
     send FilterHEX(%NoStopVal, %SecStopVal, %SetVal-56)
     blast Xfile for ValueThreat^%NoCum(SecVal?576-Xfhk)
